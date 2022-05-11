@@ -1,0 +1,18 @@
+1.Abstraction
+The purpose of abstraction is to hide some complicated details. 
+It can aslo achieve some advanced logic beyond abstract. 
+This can help users to access and see information clearly and conviently.
+
+2.Inheritance
+It can be transfered from one class to a different class. 
+So that it can share one same property and method. 
+This layer structure inherits from parent class to child class.
+
+3.Encapsulation
+Combining variable and methods together inside of a capsule. 
+This means encapsulation bind data property and methods to a certain object and limit the inside accessing permission.
+
+4.Polymorphism
+It can be used in an over-ride function.
+They share a same input but can be led to different type of data.  
+Each type can provide its own independent implementation of this interface.
